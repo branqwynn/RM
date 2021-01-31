@@ -1,4 +1,4 @@
-* Radar Map Application
+-- Radar Map Application
 
 Design Document
 
